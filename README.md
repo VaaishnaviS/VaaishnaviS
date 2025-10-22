@@ -1,4 +1,5 @@
-#Vaishnavi checking in!
+Vaishnavi checking in!
+
 💻 Passionate about building innovative projects that solve real-world problems.<br><br>🔭 I’m exploring:<br><br>ML & DL – Python, NumPy, Pandas, TensorFlow, Neural Networks<br><br>AI Applications – Computer Vision, NLP, Predictive Modeling<br><br>📫 You can reach me at: vaaishnavis018@gmail.com
 
 
