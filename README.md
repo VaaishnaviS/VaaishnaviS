@@ -1,5 +1,5 @@
 # 💫 About Me:
-Vaishnavi checking in!<br><br>💻 Passionate about building innovative projects that solve real-world problems.<br><br>🔭 I’m exploring:<br><br>ML & DL – NumPy, Pandas, TensorFlow, Neural Networks<br><br>AI Applications – Computer Vision, NLP, Predictive Modeling<br><br>📫 You can reach me at: vaaishnavibabblu1@gmail.com<br><br>
+Vaishnavi checking in!<br><br>💻 Passionate about building innovative projects that solve real-world problems.<br><br>🔭 I’m exploring:<br><br>ML & DL – NumPy, Pandas, TensorFlow, Neural Networks<br><br>AI Applications – Computer Vision, NLP, Predictive Modeling<br><br>📫 You can reach me at: vaishnavibabblu1@gmail.com<br><br>
 
 
 ## 🌐 Socials:
